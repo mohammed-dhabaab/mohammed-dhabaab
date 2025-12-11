@@ -2,7 +2,7 @@
 
 ## <div style="display: flex; align-items:center; gap: 6px;"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="23" height="23">😊 About Me</div>
 
-I am an enthusiastic and dedicated software engineer with a driven passion for developing high-quality and user-centered solutions. I am committed 100% to continuously enhancing my expertise, knowledge, and skills within software engineering and entrepreneurship to deliver impactful results!
+With you Mohammed is an enthusiastic and dedicated software engineer with a driven passion for developing high-quality and user-centered solutions. I am committed 100% to continuously enhancing my expertise, knowledge, and skills within software engineering and entrepreneurship to deliver impactful results!
 
 Currently, I am developing solutions and honing my skills more as usual! I aim to consistently deliver high value through top-quality, user-centered solutions and make a positive impact each day!
 
@@ -12,13 +12,13 @@ Currently, I am developing solutions and honing my skills more as usual! I aim t
 
 ### Frontend Skills
 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/next.svg" alt="nextjs-colored" title="Next.js" width="36" height="36"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/react.svg" alt="react" width="36" height="36" alt="React.js" title="React.js" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/typescript.svg" alt="Typescript" title="Typescript" width="36" height="36"/></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vite.svg" width="36" height="36" alt="Vite.js" title="Vite.js" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vitest.svg" width="36" height="36" alt="Vitest.js" title="Vitest.js" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/webpack.svg" width="36" height="36" alt="Webpack" title="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/babel.svg" width="36" height="36" alt="Babel" title="Babel" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/sass.svg" width="36" height="36" alt="SASS" title="SASS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/html.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
@@ -26,14 +26,13 @@ Currently, I am developing solutions and honing my skills more as usual! I aim t
 
 ### Backend Skills
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/python.svg" width="36" height="36" alt="Python" title="Python"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/node.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/express.svg" width="36" height="36" alt="Express.js" title="Express.js" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/skills/backend/mongodb.svg" alt="mongodb" width="36" height="36" title="mongodb" /></a>
 
 ### Other Skills
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/docker.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/python.svg" width="36" height="36" alt="Python" title="Python"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/git.svg" width="36" height="36" alt="Git" title="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/github.svg" width="36" height="36" alt="GitHub" title="GitHub" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress" /></a>
@@ -45,15 +44,6 @@ Currently, I am developing solutions and honing my skills more as usual! I aim t
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="./assets/skills/desgin/davinci-resolve.svg" width="36" height="36" alt="Davinci Resolve" title="Davinci Resolve" /></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/desgin/canva.svg" width="36" height="36" alt="Canva" title="Canva" /></a>
 <br>
-
-### Upcoming Skills
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/next.svg" alt="nextjs-colored" title="Next.js" width="36" height="36"/></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/nest.svg" width="36" height="36" alt="Nest.js" title="Nest.js" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/flask.svg" width="36" height="36" alt="Flask" title="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/django.svg" width="36" height="36" alt="Django" title="Django" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/aws.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./assets/skills/backend/postgresql.svg" alt="postgresql" title="postgresql" width="36" height="36"/></a>
 
 ## 📊 Stats
 
