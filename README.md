@@ -15,6 +15,8 @@ Currently, I am developing solutions and honing my skills more as usual! I aim t
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/next.svg" alt="nextjs-colored" title="Next.js" width="36" height="36"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/react.svg" alt="react" width="36" height="36" alt="React.js" title="React.js" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/typescript.svg" alt="Typescript" title="Typescript" width="36" height="36"/></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/redux.svg" width="36" height="36" alt="Redux.js" title="Redux.js" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/zustand.svg" width="36" height="36" alt="Zustand" title="Zustand" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vite.svg" width="36" height="36" alt="Vite.js" title="Vite.js" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vitest.svg" width="36" height="36" alt="Vitest.js" title="Vitest.js" /></a>
