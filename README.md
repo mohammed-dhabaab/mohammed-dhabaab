@@ -52,8 +52,10 @@ Currently, I am developing solutions and honing my skills more as usual! I aim t
 ### GitHub Stats
 
 <div style="display:flex; justify-content: center;">
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-dhabaab&theme=algolia&hide_border=true"/> -->
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-dhabaab&theme=algolia&hide_border=true" alt="GitHub Streak" /></a> -->
 <a href="https://github.com/mohammed-dhabaab" target="_blank">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-dhabaab&theme=algolia&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
 </div>
 
