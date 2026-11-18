@@ -1,91 +1,105 @@
-<img src="./assets/banner/Banner.png" alt="Banner" />
-
-## <div style="display: flex; align-items:center; gap: 6px;"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="23" height="23">😊 About Me</div>
-
-With you Mohammed is an enthusiastic and dedicated software engineer with a driven passion for developing high-quality and user-centered solutions. I am committed 100% to continuously enhancing my expertise, knowledge, and skills within software engineering and entrepreneurship to deliver impactful results!
-
-Currently, I am developing solutions and honing my skills more as usual! I aim to consistently deliver high value through top-quality, user-centered solutions and make a positive impact each day!
-
-<div style="display: flex; align-items:center; gap: 6px;"><img src="./assets/icons/teamwork.svg" width="13" /> Looking for collaboration on projects!</div>
-
-## ✨ Skills
-
-### Frontend Skills
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/next.svg" alt="nextjs-colored" title="Next.js" width="36" height="36"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/react.svg" alt="react" width="36" height="36" alt="React.js" title="React.js" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/typescript.svg" alt="Typescript" title="Typescript" width="36" height="36"/></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/redux.svg" width="36" height="36" alt="Redux.js" title="Redux.js" /></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/zustand.svg" width="36" height="36" alt="Zustand" title="Zustand" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vite.svg" width="36" height="36" alt="Vite.js" title="Vite.js" /></a>
-<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vitest.svg" width="36" height="36" alt="Vitest.js" title="Vitest.js" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/webpack.svg" width="36" height="36" alt="Webpack" title="Webpack" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/sass.svg" width="36" height="36" alt="SASS" title="SASS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/html.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/css.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-
-### Backend Skills
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/express.svg" width="36" height="36" alt="Express.js" title="Express.js" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/skills/backend/mongodb.svg" alt="mongodb" width="36" height="36" title="mongodb" /></a>
-
-### Other Skills
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/docker.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/backend/python.svg" width="36" height="36" alt="Python" title="Python"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/git.svg" width="36" height="36" alt="Git" title="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/github.svg" width="36" height="36" alt="GitHub" title="GitHub" /></a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/other/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress" /></a>
-
-### Design Skills
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/desgin/figma.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="./assets/skills/desgin/photoshop.svg" width="36" height="36" alt="Photoshop" title="Photoshop" /></a>
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="./assets/skills/desgin/davinci-resolve.svg" width="36" height="36" alt="Davinci Resolve" title="Davinci Resolve" /></a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/desgin/canva.svg" width="36" height="36" alt="Canva" title="Canva" /></a>
-<br>
-
-## 📊 Stats
-
-### GitHub Stats
-
-<div style="display:flex; justify-content: center;">
-  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-dhabaab&theme=algolia&hide_border=true"/> -->
-  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-dhabaab&theme=algolia&hide_border=true" alt="GitHub Streak" /></a> -->
-<a href="https://github.com/mohammed-dhabaab" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<a href="https://www.mohammeddhabaab.com">
+  <img src="./assets/banner/Banner.png" alt="Mohammed Dhabaab, Software Engineer. Engineer by Expertise, Designer by Habit! mohammeddhabaab.com" />
 </a>
-</div>
 
-### Leetcode Stats
+<h3 align="center">I Engineer Scalable Solutions that Deliver Measurable Results!</h3>
 
-<div style="display:flex; justify-content: center;">
-<a href="https://leetcode.com/Mohammed_Dhabaab" target="_blank">
-    <img height="180em" src="https://leetcard.jacoblin.cool/Mohammed_Dhabaab" alt="Leetcode Stats">
-  </a>
-</div>
+<p align="center">
+  With you! Mohammed Dhabaab, a Software Developer at <b>NSG Geospatial Services</b>. I build enterprise, business, and government products, lead the frontend on some of them, and design the interfaces I build!
+</p>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
--->
+<p align="center">
+  <b>8</b> products delivered · <b>160+</b> features shipped · <b>40+</b> features in one rebuild<br />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.mohammeddhabaab.com"><b>Portfolio</b></a> ·
+  <a href="https://www.mohammeddhabaab.com/work">Selected work</a> ·
+  <a href="https://www.mohammeddhabaab.com/resume">Résumé</a> ·
+  <a href="https://www.linkedin.com/in/mohammed-dhabaab/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/Mohammed_Dhabaab/">LeetCode</a> ·
+  <a href="mailto:mohammed.dhabaab@gmail.com">Email</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
 
-<!--
-**Mohammed-Aldhabaab/Mohammed-Aldhabaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proud software engineer with over **2+ years** of experience building web applications that scale, stay maintainable, and put users first, specializing in the **frontend**. On production apps, I work across API and backend integration, reusable component architecture, state and data management, performance, testing, and code reviews!
 
-Here are some ideas to get you started:
+I’m also growing beyond the frontend into **full-stack engineering**, software architecture, and AI-powered applications, and I'm always **looking for better** ways to build products and solve problems!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+The tools behind the work. It’s the same map as on [my portfolio](https://www.mohammeddhabaab.com/#stack), where each tool links to where I used it.
+
+### Frontend
+
+<p>
+  <a href="https://nextjs.org/"><img src="./assets/technologies/next.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
+  <a href="https://reactjs.org/"><img src="./assets/technologies/react.svg" width="40" height="40" alt="React" title="React" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="./assets/technologies/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/technologies/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://tailwindcss.com/"><img src="./assets/technologies/tailwind-css.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+  <a href="https://sass-lang.com/"><img src="./assets/technologies/sass.svg" width="40" height="40" alt="Sass" title="Sass" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/technologies/css.svg" width="40" height="40" alt="CSS" title="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/technologies/html.svg" width="40" height="40" alt="HTML" title="HTML" /></a>
+  <a href="https://tanstack.com/query/latest"><img src="./assets/technologies/react-query.svg" width="40" height="40" alt="React Query" title="React Query" /></a>
+  <a href="https://redux.js.org/"><img src="./assets/technologies/redux.svg" width="40" height="40" alt="Redux" title="Redux" /></a>
+  <a href="https://zustand.docs.pmnd.rs/"><img src="./assets/technologies/zustand.svg" width="40" height="40" alt="Zustand" title="Zustand" /></a>
+  <a href="https://axios-http.com/"><img src="./assets/technologies/axios.svg" width="40" height="40" alt="Axios" title="Axios" /></a>
+  <a href="https://eslint.org/"><img src="./assets/technologies/eslint.svg" width="40" height="40" alt="ESLint" title="ESLint" /></a>
+  <a href="https://prettier.io/"><img src="./assets/technologies/prettier.svg" width="40" height="40" alt="Prettier" title="Prettier" /></a>
+</p>
+
+Next.js · React · TypeScript · JavaScript · Tailwind CSS · Sass · CSS · HTML · React Query · Redux · Zustand · Axios · ESLint · Prettier
+
+### Backend & Databases
+
+<p>
+  <a href="https://nodejs.org/"><img src="./assets/technologies/node.svg" width="40" height="40" alt="Node.js" title="Node.js" /></a>
+  <a href="https://nextjs.org/"><img src="./assets/technologies/next.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
+  <a href="https://expressjs.com/"><img src="./assets/technologies/express.svg" width="40" height="40" alt="Express" title="Express" /></a>
+  <a href="https://www.python.org/"><img src="./assets/technologies/python.svg" width="40" height="40" alt="Python" title="Python" /></a>
+  <a href="https://www.mongodb.com/"><img src="./assets/technologies/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="./assets/technologies/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="./assets/technologies/sql.svg" width="40" height="40" alt="SQL" title="SQL" /></a>
+  <a href="https://www.docker.com/"><img src="./assets/technologies/docker.svg" width="40" height="40" alt="Docker" title="Docker" /></a>
+</p>
+
+Node.js · Next.js · Express · Python · MongoDB · PostgreSQL · SQL · Docker
+
+### Testing & Build
+
+<p>
+  <a href="https://vitest.dev/"><img src="./assets/technologies/vitest.svg" width="40" height="40" alt="Vitest" title="Vitest" /></a>
+  <a href="https://vitejs.dev/"><img src="./assets/technologies/vite.svg" width="40" height="40" alt="Vite" title="Vite" /></a>
+  <a href="https://playwright.dev/"><img src="./assets/technologies/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright" /></a>
+</p>
+
+Vitest · Vite · Playwright
+
+### Version Control & Host
+
+<p>
+  <a href="https://git-scm.com/"><img src="./assets/technologies/git.svg" width="40" height="40" alt="Git" title="Git" /></a>
+  <a href="https://github.com/"><img src="./assets/technologies/github.svg" width="40" height="40" alt="GitHub" title="GitHub" /></a>
+  <a href="https://vercel.com/"><img src="./assets/technologies/vercel.svg" width="40" height="40" alt="Vercel" title="Vercel" /></a>
+</p>
+
+Git · GitHub · Vercel
+
+### Design
+
+<p>
+  <a href="https://www.figma.com/"><img src="./assets/technologies/figma.svg" width="40" height="40" alt="Figma" title="Figma" /></a>
+  <a href="https://www.canva.com/"><img src="./assets/technologies/canva.svg" width="40" height="40" alt="Canva" title="Canva" /></a>
+  <a href="https://www.blender.org/"><img src="./assets/technologies/blender.svg" width="40" height="40" alt="Blender" title="Blender" /></a>
+  <a href="https://unity.com/"><img src="./assets/technologies/unity.svg" width="40" height="40" alt="Unity" title="Unity" /></a>
+</p>
+
+Figma · Canva · Blender · Unity
+
+## Contact
+
+I’m open to the right role. Email is the fastest way to reach me: for a role, an interview, or a question about my work, write anytime!
+
+[mohammed.dhabaab@gmail.com](mailto:mohammed.dhabaab@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohammed-dhabaab/) · [Contact form](https://www.mohammeddhabaab.com/#contact)

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="SQL">
+<title>SQL</title>
+<rect width="48" height="48" rx="11" fill="#0B0F16"/>
+<rect x="0.5" y="0.5" width="47" height="47" rx="10.5" fill="none" stroke="#2A3446"/>
+<svg x="10" y="10" width="28" height="28" viewBox="0 0 24 24">
+<defs><linearGradient id="sql-g" x1="3" y1="0" x2="21" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#0057ff"/></linearGradient></defs><g fill="none" stroke="url(#sql-g)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></g>
+</svg>
+</svg>
