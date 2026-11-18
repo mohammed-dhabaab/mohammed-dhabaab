@@ -100,6 +100,6 @@ Figma · Canva · Blender · Unity
 
 ## Contact
 
-I’m open to the right role. Email is the fastest way to reach me: for a role, an interview, or a question about my work, write anytime!
+I’m open to the right role. Email is the fastest way to reach me: for a role, an interview, a collaboration, or a question about my work, write anytime!
 
 [mohammed.dhabaab@gmail.com](mailto:mohammed.dhabaab@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohammed-dhabaab/) · [Contact form](https://www.mohammeddhabaab.com/#contact)
