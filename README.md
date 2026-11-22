@@ -34,20 +34,20 @@ The tools behind the work. It’s the same map as on [my portfolio](https://www.
 ### Frontend
 
 <p>
-  <a href="https://nextjs.org/"><img src="./assets/technologies/next.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
-  <a href="https://reactjs.org/"><img src="./assets/technologies/react.svg" width="40" height="40" alt="React" title="React" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="./assets/technologies/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/technologies/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://tailwindcss.com/"><img src="./assets/technologies/tailwind-css.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></a>
-  <a href="https://sass-lang.com/"><img src="./assets/technologies/sass.svg" width="40" height="40" alt="Sass" title="Sass" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/technologies/css.svg" width="40" height="40" alt="CSS" title="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/technologies/html.svg" width="40" height="40" alt="HTML" title="HTML" /></a>
-  <a href="https://tanstack.com/query/latest"><img src="./assets/technologies/react-query.svg" width="40" height="40" alt="React Query" title="React Query" /></a>
-  <a href="https://redux.js.org/"><img src="./assets/technologies/redux.svg" width="40" height="40" alt="Redux" title="Redux" /></a>
-  <a href="https://zustand.docs.pmnd.rs/"><img src="./assets/technologies/zustand.svg" width="40" height="40" alt="Zustand" title="Zustand" /></a>
-  <a href="https://axios-http.com/"><img src="./assets/technologies/axios.svg" width="40" height="40" alt="Axios" title="Axios" /></a>
-  <a href="https://eslint.org/"><img src="./assets/technologies/eslint.svg" width="40" height="40" alt="ESLint" title="ESLint" /></a>
-  <a href="https://prettier.io/"><img src="./assets/technologies/prettier.svg" width="40" height="40" alt="Prettier" title="Prettier" /></a>
+  <a href="https://nextjs.org/"><img src="./assets/technologies/next.svg" width="40" height="40" alt="Next.js" title="Next.js" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://reactjs.org/"><img src="./assets/technologies/react.svg" width="40" height="40" alt="React" title="React" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="./assets/technologies/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/technologies/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://tailwindcss.com/"><img src="./assets/technologies/tailwind-css.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://sass-lang.com/"><img src="./assets/technologies/sass.svg" width="40" height="40" alt="Sass" title="Sass" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/technologies/css.svg" width="40" height="40" alt="CSS" title="CSS" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/technologies/html.svg" width="40" height="40" alt="HTML" title="HTML" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://tanstack.com/query/latest"><img src="./assets/technologies/react-query.svg" width="40" height="40" alt="React Query" title="React Query" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://redux.js.org/"><img src="./assets/technologies/redux.svg" width="40" height="40" alt="Redux" title="Redux" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://zustand.docs.pmnd.rs/"><img src="./assets/technologies/zustand.svg" width="40" height="40" alt="Zustand" title="Zustand" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://axios-http.com/"><img src="./assets/technologies/axios.svg" width="40" height="40" alt="Axios" title="Axios" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://eslint.org/"><img src="./assets/technologies/eslint.svg" width="40" height="40" alt="ESLint" title="ESLint" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://prettier.io/"><img src="./assets/technologies/prettier.svg" width="40" height="40" alt="Prettier" title="Prettier" target="_blank" rel="noopener noreferrer" /></a>
 </p>
 
 Next.js · React · TypeScript · JavaScript · Tailwind CSS · Sass · CSS · HTML · React Query · Redux · Zustand · Axios · ESLint · Prettier
@@ -55,14 +55,14 @@ Next.js · React · TypeScript · JavaScript · Tailwind CSS · Sass · CSS · H
 ### Backend & Databases
 
 <p>
-  <a href="https://nodejs.org/"><img src="./assets/technologies/node.svg" width="40" height="40" alt="Node.js" title="Node.js" /></a>
-  <a href="https://nextjs.org/"><img src="./assets/technologies/next.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
-  <a href="https://expressjs.com/"><img src="./assets/technologies/express.svg" width="40" height="40" alt="Express" title="Express" /></a>
-  <a href="https://www.python.org/"><img src="./assets/technologies/python.svg" width="40" height="40" alt="Python" title="Python" /></a>
-  <a href="https://www.mongodb.com/"><img src="./assets/technologies/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="./assets/technologies/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="./assets/technologies/sql.svg" width="40" height="40" alt="SQL" title="SQL" /></a>
-  <a href="https://www.docker.com/"><img src="./assets/technologies/docker.svg" width="40" height="40" alt="Docker" title="Docker" /></a>
+  <a href="https://nodejs.org/"><img src="./assets/technologies/node.svg" width="40" height="40" alt="Node.js" title="Node.js" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://nextjs.org/"><img src="./assets/technologies/next.svg" width="40" height="40" alt="Next.js" title="Next.js" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://expressjs.com/"><img src="./assets/technologies/express.svg" width="40" height="40" alt="Express" title="Express" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.python.org/"><img src="./assets/technologies/python.svg" width="40" height="40" alt="Python" title="Python" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.mongodb.com/"><img src="./assets/technologies/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.postgresql.org/"><img src="./assets/technologies/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="./assets/technologies/sql.svg" width="40" height="40" alt="SQL" title="SQL" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.docker.com/"><img src="./assets/technologies/docker.svg" width="40" height="40" alt="Docker" title="Docker" target="_blank" rel="noopener noreferrer" /></a>
 </p>
 
 Node.js · Next.js · Express · Python · MongoDB · PostgreSQL · SQL · Docker
@@ -70,9 +70,9 @@ Node.js · Next.js · Express · Python · MongoDB · PostgreSQL · SQL · Docke
 ### Testing & Build
 
 <p>
-  <a href="https://vitest.dev/"><img src="./assets/technologies/vitest.svg" width="40" height="40" alt="Vitest" title="Vitest" /></a>
-  <a href="https://vitejs.dev/"><img src="./assets/technologies/vite.svg" width="40" height="40" alt="Vite" title="Vite" /></a>
-  <a href="https://playwright.dev/"><img src="./assets/technologies/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright" /></a>
+  <a href="https://vitest.dev/"><img src="./assets/technologies/vitest.svg" width="40" height="40" alt="Vitest" title="Vitest" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://vitejs.dev/"><img src="./assets/technologies/vite.svg" width="40" height="40" alt="Vite" title="Vite" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://playwright.dev/"><img src="./assets/technologies/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright" target="_blank" rel="noopener noreferrer" /></a>
 </p>
 
 Vitest · Vite · Playwright
@@ -80,9 +80,9 @@ Vitest · Vite · Playwright
 ### Version Control & Host
 
 <p>
-  <a href="https://git-scm.com/"><img src="./assets/technologies/git.svg" width="40" height="40" alt="Git" title="Git" /></a>
-  <a href="https://github.com/"><img src="./assets/technologies/github.svg" width="40" height="40" alt="GitHub" title="GitHub" /></a>
-  <a href="https://vercel.com/"><img src="./assets/technologies/vercel.svg" width="40" height="40" alt="Vercel" title="Vercel" /></a>
+  <a href="https://git-scm.com/"><img src="./assets/technologies/git.svg" width="40" height="40" alt="Git" title="Git" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://github.com/"><img src="./assets/technologies/github.svg" width="40" height="40" alt="GitHub" title="GitHub" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://vercel.com/"><img src="./assets/technologies/vercel.svg" width="40" height="40" alt="Vercel" title="Vercel" target="_blank" rel="noopener noreferrer" /></a>
 </p>
 
 Git · GitHub · Vercel
@@ -90,10 +90,10 @@ Git · GitHub · Vercel
 ### Design
 
 <p>
-  <a href="https://www.figma.com/"><img src="./assets/technologies/figma.svg" width="40" height="40" alt="Figma" title="Figma" /></a>
-  <a href="https://www.canva.com/"><img src="./assets/technologies/canva.svg" width="40" height="40" alt="Canva" title="Canva" /></a>
-  <a href="https://www.blender.org/"><img src="./assets/technologies/blender.svg" width="40" height="40" alt="Blender" title="Blender" /></a>
-  <a href="https://unity.com/"><img src="./assets/technologies/unity.svg" width="40" height="40" alt="Unity" title="Unity" /></a>
+  <a href="https://www.figma.com/"><img src="./assets/technologies/figma.svg" width="40" height="40" alt="Figma" title="Figma" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.canva.com/"><img src="./assets/technologies/canva.svg" width="40" height="40" alt="Canva" title="Canva" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://www.blender.org/"><img src="./assets/technologies/blender.svg" width="40" height="40" alt="Blender" title="Blender" target="_blank" rel="noopener noreferrer" /></a>
+  <a href="https://unity.com/"><img src="./assets/technologies/unity.svg" width="40" height="40" alt="Unity" title="Unity" target="_blank" rel="noopener noreferrer" /></a>
 </p>
 
 Figma · Canva · Blender · Unity
